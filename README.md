@@ -145,6 +145,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [RegexOne](http://regexone.com) - Learn regular expressions with simple, interactive examples
 - [Regexp Exercises](https://regex.sketchengine.co.uk/) - Regexp exercises
 - [Regular Expression Crossword Puzzle](http://gregable.com/2015/12/regular-expression-crossword-puzzle.html) - A crossword puzzle with a neat web interface.
+- [Regex Machina](https://codepip.com/games/regex-machina/) - A game of filtering humans and bots using regular expressions
 
 ## Articles
 
